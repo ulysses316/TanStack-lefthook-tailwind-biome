@@ -1,4 +1,4 @@
-# TanStack Start + Bun + Biome + Lefthook Template + TailwindCSS
+# TanStack Start + Bun + Biome + Lefthook + TailwindCSS Template
 
 This project is a minimal **Hello World** template based on [TanStack Start](https://start.tanstack.com/), configured with:
 
