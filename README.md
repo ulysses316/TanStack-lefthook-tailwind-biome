@@ -1,10 +1,11 @@
-# TanStack Start + Bun + Biome + Lefthook Template
+# TanStack Start + Bun + Biome + Lefthook Template + TailwindCSS
 
 This project is a minimal **Hello World** template based on [TanStack Start](https://start.tanstack.com/), configured with:
 
 - **Bun** as the package manager
 - **Biome** as the linter and code formatter
 - **Lefthook** for fast and reliable pre-commit hooks
+- **TailwindCSS** for utility-first and highly customizable styling
 
 ## Features
 
